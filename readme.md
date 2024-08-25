@@ -1,0 +1,3 @@
+## build instructions
+
+`sbt assembly`
